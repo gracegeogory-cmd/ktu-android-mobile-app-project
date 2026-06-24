@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context='.MainActivity'
+    android:layout_height="match_parent"
+    android:background="#Edd121"
+    android:layout_marginTop="40dp">
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="198dp"
+        android:background="#2686E0">
+
+        <TextView
+            android:text="Name"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textColor="#fff"/>
+
+        <TextView
+            android:text="Age"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textColor="#fff"/>
+
+        <TextView
+            android:text="Gender"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textColor="#fff"/>
+
+    </TableRow>
+    
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="198dp">
+
+        <TextView
+            android:text="Asare John"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="78"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="Male"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="Mensahg Jerry"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="71"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="Male"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Eliphaz Labie"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="89"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="Male"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="LAwrencia Mendy"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="61"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+
+        <TextView
+            android:text="Female"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:textColor="#456"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="198dp">
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Search"
+            android:layout_marginLeft="20dp"
+            />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Search"
+            android:layout_marginLeft="20dp"
+            />
+
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Search"
+            android:layout_marginLeft="20dp"
+            />
+
+    </TableRow>
+
+</TableLayout>
